@@ -2,5 +2,8 @@ p{
   font-size:800px;
 }
 body{
-  background-color:rgb(111, 0, 145);
+  background-color:orchid;
+}
+h1{
+  font-size:13rem;
 }
