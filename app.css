@@ -1,6 +1,10 @@
 p{
-  font-size:800px;
+  font-size:80px;
 }
 body{
   background-color:darkblue;
+}
+.letters{
+  transition: color 1000ms;
+  font-size: 15rem;
 }
